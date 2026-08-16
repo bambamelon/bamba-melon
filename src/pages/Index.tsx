@@ -12,7 +12,7 @@ import chloeImg from "@/assets/chloe-cow.jpeg";
 import bambaWithMelon from "@/assets/bamba-with-melon.jpeg";
 
 const toys = [
-  { name: "Bamba the Poodle", image: bambaImg, description: "The original fluffy poodle that started it all", price: "£19.99", tag: "Best Seller", paypalLink: "#" },
+  { name: "Bamba the Poodle", image: bambaImg, description: "The original fluffy poodle that started it all", price: "£19.99", tag: "Best Seller", paypalLink: "https://buy.stripe.com/bJe28rdvBbdC5bP0sDdUY01" },
   { name: "Ellie the Elephant", image: ellieImg, description: "A soft navy elephant with a cute bow", price: "£29.99", tag: "New" },
   { name: "Chloe the Cow", image: chloeImg, description: "Adorable cowgirl with a tiny hat", price: "£29.99", tag: "New" },
 ];

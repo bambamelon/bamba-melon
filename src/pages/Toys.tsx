@@ -8,7 +8,7 @@ import chloeImg from "@/assets/chloe-cow.jpeg";
 import bambaAngles from "@/assets/bamba-angles.jpeg";
 
 const toys = [
-  { name: "Bamba the Poodle", image: bambaImg, description: "The original fluffy poodle that started it all. Super soft curly fur and the cutest face.", price: "£19.99", tag: "Best Seller", paypalLink: "#" },
+  { name: "Bamba the Poodle", image: bambaImg, description: "The original fluffy poodle that started it all. Super soft curly fur and the cutest face.", price: "£19.99", tag: "Best Seller", paypalLink: "https://buy.stripe.com/bJe28rdvBbdC5bP0sDdUY01" },
   { name: "Ellie the Elephant", image: ellieImg, description: "A soft navy elephant wearing a sweet light blue bow. Perfect for cuddles.", price: "£29.99", tag: "New" },
   { name: "Chloe the Cow", image: chloeImg, description: "An adorable cowgirl with a tiny brown cowboy hat. Yeehaw!", price: "£29.99", tag: "New" },
 ];
