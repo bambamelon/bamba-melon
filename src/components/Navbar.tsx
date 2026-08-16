@@ -8,6 +8,7 @@ const navLinks = [
   { to: "/toys", label: "Toys" },
   { to: "/hoodies", label: "Hoodies" },
   { to: "/videos", label: "Videos" },
+  { to: "/about", label: "About" },
 ];
 
 export default function Navbar() {
